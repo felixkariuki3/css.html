@@ -1,0 +1,102 @@
+.div1 {
+	color: red;
+	/*background: yellow;*/
+	background-image:url('../image/practice.png');
+	background-repeat: no-repeat;
+	height: 200px;
+	
+
+}
+ul {
+	float: right;
+	display: inline;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+li{
+
+float: right;
+
+}
+a{
+
+	display: block;
+	padding: 5px;
+	color: yellow;
+}
+h1{
+
+	text-align: center;
+	font-size: 20px;
+	margin-left: 100px;
+	text-align: center;
+
+}
+h2{
+	text-align: center;
+	font-size: 20px;
+	margin-left: 0;
+	text-align: center;
+	border-radius: 15px;
+	border: 1px solid black;
+	/*width-left: 200px;*/
+	width: auto;
+}
+.div2{
+	background: brown;
+	padding: 3px;
+	margin: 4px;
+
+}
+.div3{
+
+	float: left;
+	width: 47%;
+	padding: 5px;
+	border: 1px solid white;
+	border-color: purple;
+	background: blue;
+	border-radius: 15px;
+	height: 200px;
+
+}	
+.div4{
+
+	float: right;
+	width: 47%;
+	/*border: transparent;*/
+	border-color: blue;
+	background: grey;
+	padding: 5px;
+	border-radius: 15px;
+	margin-bottom: 5px;
+	height: 200px;
+}
+.div5{
+	bottom: 0;
+	margin-bottom:0;display: block;
+	padding: 5px;
+	color: yellow;
+	
+
+}
+ul.ul1 li{
+
+	float: left;
+	margin: 15px;
+	
+}
+body{
+
+	background: #42f4df; 
+}
+
+.copyright{
+
+	position: absolute;
+	bottom: 0;
+	margin-bottom:0;display: block;
+	padding: 5px;
+	color: black;
+}
